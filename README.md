@@ -24,5 +24,15 @@ FoodApp application uses Firebase as an authentication provider. Where are 3 fie
     
       User information in test database
       
-![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/1.png =250x)
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/1.png)
+
+---
+
+### splash screen
+
+App has splash screen which lasts for 3 seconds.
+
+      Splash Screen
+      
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/2.png)
 
