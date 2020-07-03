@@ -14,7 +14,7 @@
 
 FoodApp is a simple application which includes authentication and getting data about delicious foor using Retrofit library.
 Where are 3 Activities : Splash Activity, Main Activity (login/register) and Dashboard Activity.
-Application uses free and open API endpoint provided by : TheMealDb](https://www.themealdb.com/api.php?ref=apilist.fun)
+Application uses free and open API endpoint provided by : TheMealDb. link: https://www.themealdb.com/api.php?ref=apilist.fun
 
 ---
 
@@ -46,7 +46,7 @@ Application already comes with valid test values. You can create new accaunt by 
 
       Main screen
       
-![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images3.png)
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/3.png)
 
      Authentication
       
@@ -60,7 +60,7 @@ This section of application contains variaty of different recipes. Each recipe h
 
       Recipes
       
-![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images5.png)
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/5.png)
 
       
 ![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/6.png)
