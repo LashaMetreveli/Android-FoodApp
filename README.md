@@ -36,3 +36,31 @@ App has splash screen which lasts for 3 seconds.
       
 ![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/2.png)
 
+---
+
+### login/register screen
+
+To see recipes you need to  either log in or register. 
+
+Application already comes with valid test values. You can create new accaunt by clicking => Sign Up . Enter test data: phone number , name and password.
+
+      Main screen
+      
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images3.png)
+
+     Authentication
+      
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/4.png)
+
+---
+
+### recipes 
+
+This section of application contains variaty of different recipes. Each recipe has 5 characteristics : image, name, location, category and instructions.
+
+      Recipes
+      
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images5.png)
+
+      
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/6.png)
