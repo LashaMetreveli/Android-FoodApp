@@ -24,5 +24,5 @@ FoodApp application uses Firebase as an authentication provider. Where are 3 fie
     
       User information in test database
       
-![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/1.png | width=100)
+![image](https://github.com/LashaMetreveli/Android-FoodApp/blob/master/images/1.png =250x)
 
